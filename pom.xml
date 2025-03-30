@@ -24,6 +24,7 @@
     <module>Car</module>
     <module>Moto</module>
     <module>User</module>
+    <module>config</module>
   </modules>
 
   <properties>
