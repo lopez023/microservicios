@@ -10,6 +10,7 @@
         <module name="User" />
         <module name="Car" />
         <module name="config" />
+        <module name="eureka" />
       </profile>
     </annotationProcessing>
   </component>
@@ -19,6 +20,7 @@
       <module name="Moto" options="-parameters" />
       <module name="User" options="-parameters" />
       <module name="config" options="-parameters" />
+      <module name="eureka" options="-parameters" />
       <module name="microServiciosCouse" options="" />
     </option>
   </component>

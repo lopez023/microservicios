@@ -1,0 +1,8 @@
+spring:
+  application:
+    name: eureka
+  cloud:
+    config:
+      enabled: tue
+      uri: http://localhost:8081
+

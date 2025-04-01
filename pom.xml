@@ -25,6 +25,7 @@
     <module>Moto</module>
     <module>User</module>
     <module>config</module>
+    <module>eureka</module>
   </modules>
 
   <properties>
