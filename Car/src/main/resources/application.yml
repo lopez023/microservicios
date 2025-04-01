@@ -7,5 +7,5 @@ spring:
     name: car
   cloud:
     config:
-      enabled: tue
+      enabled: true
       uri: http://localhost:8081
