@@ -3,3 +3,13 @@ server:
 
 application:
   name: car
+
+
+eureka:
+  client:
+    fetch-registry: true
+    registry-with-eureka: true
+    service-url:
+      default-zone: http://localhost:8761/eureka
+    instance:
+      hostname: localhost
