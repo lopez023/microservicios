@@ -1,10 +1,5 @@
 server:
   port: 8002
-
-application:
-  name: car
-
-
 eureka:
   client:
     fetch-registry: true

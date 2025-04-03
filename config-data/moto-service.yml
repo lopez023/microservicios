@@ -1,10 +1,5 @@
 server:
   port: 8003
-
-application:
-  name: Moto
-
-
 eureka:
   client:
     fetch-registry: true
